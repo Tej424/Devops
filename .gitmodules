@@ -1,0 +1,4 @@
+[submodule "TejModule"]
+	path = TejModule
+	url = https://github.com/Tej424/Devops.git
+	branch = master
